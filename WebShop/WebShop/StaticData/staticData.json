@@ -1,0 +1,11 @@
+{
+  "masterUsername": "webshop@tmpmail.org",
+  "masterPassword": "autoTest@123",
+  "validation_FirstName": "First name is required.",
+  "validation_LastName": "Last name is required.",
+  "validation_Email": "Email is required.",
+  "validation_Password": "Password is required.",
+  "validation_WrongEmail": "Wrong email",
+  "validation_PasswordLength": "The password should have at least 6 characters.",
+  "validation_ConfirmPassword": "The password and confirmation password do not match."
+}
